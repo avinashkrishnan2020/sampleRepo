@@ -7,6 +7,6 @@ public class UserInterface {
     String name;
     String age;
     
-    String contactDetails;
+    String contactDetails1;
   }
 }
